@@ -9,7 +9,7 @@ Servidor em Python + django + SQLite usando **virtual environment**. Para execut
 2. `python manage.py runserver`
 
 Pare o servidor usando `Ctrl-C` e saia do ambiente virtual digitando:
-`source .venv/bin/deactivate`
+`deactivate`
 
 ### pets
 Cliente em React. Para executar digite:
